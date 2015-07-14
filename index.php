@@ -17,3 +17,4 @@ $result=$conn->query("SELECT * FROM clasicos");
 if(!$result) die($conn->error);
 
 $num_rows = $result->num_rows;
+echo $num_rows;
