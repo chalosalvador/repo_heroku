@@ -1,0 +1,4 @@
+Server: us-cdbr-iron-east-02.cleardb.net
+Username: be505b883b85da
+Password: b22b5198
+DB: heroku_a6c93f827357fde

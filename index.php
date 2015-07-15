@@ -8,7 +8,7 @@ $username = $url["user"];
 $password = $url["pass"];
 $db = substr($url["path"], 1);
 
-echo "Server: " . $server . '<br>';
+echo "<br>Server: " . $server . '<br>';
 echo "Username: " . $username . '<br>';
 echo "Password: " . $password . '<br>';
 echo "DB: " . $db;
